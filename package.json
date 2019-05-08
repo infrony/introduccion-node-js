@@ -1,0 +1,24 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo Node JS de Intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infrony/introduccion-node-js.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs",
+    "node"
+  ],
+  "author": "Rodney Guillen <infrony@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infrony/introduccion-node-js/issues"
+  },
+  "homepage": "https://github.com/infrony/introduccion-node-js#readme"
+}
